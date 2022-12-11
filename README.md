@@ -51,5 +51,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+###serverside output
+![OUTPUT](pic1.png)
+
+
+###clientside output
+![output](pic2.png)
 
 ## RESULT:
